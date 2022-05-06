@@ -1,12 +1,10 @@
-### Flurr Bot
+# Flurr Bot
 
 [![Discord Server](https://img.shields.io/discord/961126057744941116?logo=discord&logoColor=ffffff&color=7389D8)](https://discord.gg/yEGdATHKyp)
 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
-An AI bot with responds with whatever you want it to do!
+Welcome to this repository! This is about a bot with responds with AI messages once you send them in a specific channel. The bot uses an AI called [AFFILIATE+ API](https://api.affiliateplus.xyz). If you would like to include the AI in your project open it with Autocode! If you want to include it in a different hosting you can fork this repository or simply copy the files and the code. Please join our [Discord Server](https://discord.gg/yEGdATHKyp) for helful support.
 
-# Source Code
+### Server Usage
 
-<h3>Please do not modify any of the code otherwise it won't work. Only use Autocode to host your bot.</h3>
-  
-So you want to see the magic behind everything here? Go ahead and browse the folders in this Github repository.
+As you know by our discord server it is called "Colen Bot Support" and doesn't have the keyword "Flurr" in it. That's because we have another Discord bot called "Colen" and its partners "Colen Games" and "Colen Music". I've worked hard for those bots so I think it deserves to join.
