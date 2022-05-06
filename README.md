@@ -1,6 +1,7 @@
 ### Flurr Bot
 
 [![Discord Server](https://img.shields.io/discord/961126057744941116?logo=discord&logoColor=ffffff&color=7389D8)](https://discord.gg/yEGdATHKyp)
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 An AI bot with responds with whatever you want it to do!
 
