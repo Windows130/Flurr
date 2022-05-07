@@ -1,5 +1,7 @@
 # Security Policy
 
+The security policy for closing and removing vulnerability.
+
 ## Supported Versions
 
 Supported versions with updates that make security patches.
@@ -10,8 +12,4 @@ Supported versions with updates that make security patches.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you see a vulnerability please go to our Wiki for more information on how and why to report a vulnerability.
