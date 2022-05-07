@@ -8,3 +8,11 @@ Welcome to this repository! This is about a bot with responds with AI messages o
 ### Server Usage
 
 As you know by our discord server it is called "Colen Bot Support" and doesn't have the keyword "Flurr" in it. That's because we have another Discord bot called "Colen" and its partners "Colen Games" and "Colen Music". I've worked hard for those bots so I think it deserves to join.
+
+### Moderation
+
+There is also moderation on the server so don't ever think about doing anything that is not allowed. The rules are powered by a webhook. If you witness a moderator misbehave in the server please ping any available staff, so that they **try** to fix the problem atleast.
+
+### Modification
+
+Any modification of the bot's code ***is allowed***. As long as you don't make the code harm people or grab their IP and token. If you want to ask a question please contact the owner: "Chunk#0001" on [Discord](https://discord.com). If you cannot contact him please join our Discord server with helpful support.
