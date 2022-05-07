@@ -1,0 +1,25 @@
+{
+  "name": "flurr/flurr",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/create-1.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create-2.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/create.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/bot/guild/joined.js": {
+      "name": "discord.bot.guild.joined"
+    }
+  },
+  "env": [
+    {
+      "name": "PREFIX",
+      "description": "Your bot's prefix"
+    }
+  ]
+}
