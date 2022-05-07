@@ -1,0 +1,9 @@
+{
+  "name": "new-project",
+  "author": "flurr",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "axios": "^0.26.1"
+  }
+}
